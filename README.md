@@ -20,6 +20,10 @@ class Skills extends Developer {
 ```
 <br></br>
 
+> <h3><em>"Man is nothing more than what education makes him"</em></h3>
+
+<br></br>
+
 # Contact
 
 <a href="https://wa.me/5511944924303"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-roundedrectangle&logo=whatsapp&logoColor=white"/></a>
