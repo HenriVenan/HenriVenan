@@ -4,17 +4,17 @@
 </p>
 
 ```js
-import Desenvolvedor from "HenriVenan";
+import Developer from "HenriVenan";
 
 class AboutMe extends Developer {
-  nome = "Abner Henrique";
-  area = "Full-Stack Developer";
+  name = "Abner Henrique";
+  occupation = "Full-Stack Developer";
   local = "Cabreúva - SP";
 }
 
 class Skills extends Developer {
-  linguagens = ["Javascript, Java"];
-  bibliotecas = ["React"];
+  languages = ["Javascript, Java"];
+  libs = ["React"];
   frameworks = ["Next JS, Spring Boot"];
 }
 ```
