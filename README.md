@@ -13,9 +13,9 @@ class AboutMe extends Developer {
 }
 
 class Skills extends Developer {
-  languages = ["Javascript, Java"];
+  languages = ["Javascript, Java, C#"];
   libs = ["React"];
-  frameworks = ["Next JS, Spring Boot"];
+  frameworks = ["Next JS, Spring Boot, ASP.NET"];
 }
 ```
 <br></br>
