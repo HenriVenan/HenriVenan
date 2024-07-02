@@ -3,21 +3,6 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Cursive&color=cyan&size=35&center=true&vCenter=false&width=1000&height=100&lines=Welcome!+I'm+so+happy+to+have+you+here;I'm+Full-Stack+Developer;and+Analysis+and+Systems+Development+Student"></a>
 </p>
 
-```js
-import Developer from "HenriVenan";
-
-class AboutMe extends Developer {
-  name = "Abner Henrique";
-  occupation = "Full-Stack Developer";
-  local = "Cabreúva - SP";
-}
-
-class Skills extends Developer {
-  languages = ["Javascript, Java, C#"];
-  libs = ["React"];
-  frameworks = ["Next JS, Spring Boot, ASP.NET"];
-}
-```
 <br></br>
 
 > <h3><em>"Man is nothing more than what education makes him"</em></h3>
